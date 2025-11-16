@@ -7,7 +7,7 @@
 <title>Inside login page</title>
 </head>
 <body>
-<b> Welcome Vin</b>
+<b> Welcome Vin master branch</b>
 
 </body>
 </html>
